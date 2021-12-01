@@ -18,4 +18,4 @@ Hi, I'm Kuhan Dhanyan  <a href="https://www.linkedin.com/in/kuhan-dhanyan/">
 <code><img height="20" src="https://iconape.com/wp-content/files/lf/371619/svg/371619.svg"></code>
 
 </br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kdhanyan&show_icons=true&theme=gotham" alt="kdhanyan" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eddykuhan&show_icons=true&theme=gotham" alt="kdhanyan" />
