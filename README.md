@@ -1,4 +1,4 @@
-### Hi there 👋   ![visitors](https://visitor-badge.glitch.me/badge?page_id=kdhanyan.visitor-badge.issue.1)
+### Hi there 👋   !(https://visitor-badge.glitch.me/badge?page_id=kdhanyan.visitor-badge.issue.1)
 
 
 Hi, I'm Kuhan Dhanyan  <a href="https://www.linkedin.com/in/kuhan-dhanyan/">
